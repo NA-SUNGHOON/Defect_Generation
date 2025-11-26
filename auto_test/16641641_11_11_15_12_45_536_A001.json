@@ -1,0 +1,50 @@
+{
+  "source_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536.bmp",
+  "result_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536_A001.bmp",
+  "defects": [
+    {
+      "type": "foreign_object",
+      "bbox": [
+        631,
+        94,
+        214,
+        214
+      ],
+      "params": {
+        "scale": 1.2090395480225988,
+        "object_size": [
+          177,
+          115
+        ],
+        "placed_size": [
+          214,
+          214
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\nasa\\nasa6.png",
+        "angle": 15.8601668878933
+      }
+    },
+    {
+      "type": "foreign_object",
+      "bbox": [
+        599,
+        280,
+        286,
+        286
+      ],
+      "params": {
+        "scale": 2.306451612903226,
+        "object_size": [
+          124,
+          171
+        ],
+        "placed_size": [
+          286,
+          286
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\binil\\binil3.png",
+        "angle": 15.343616904095654
+      }
+    }
+  ]
+}

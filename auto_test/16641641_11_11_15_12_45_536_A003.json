@@ -1,0 +1,28 @@
+{
+  "source_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536.bmp",
+  "result_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536_A003.bmp",
+  "defects": [
+    {
+      "type": "foreign_object",
+      "bbox": [
+        703,
+        380,
+        190,
+        190
+      ],
+      "params": {
+        "scale": 2.087912087912088,
+        "object_size": [
+          91,
+          94
+        ],
+        "placed_size": [
+          190,
+          190
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\gomu_white\\gomu5.png",
+        "angle": -9.92460532249742
+      }
+    }
+  ]
+}

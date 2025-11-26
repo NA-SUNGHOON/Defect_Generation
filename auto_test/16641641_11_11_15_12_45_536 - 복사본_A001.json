@@ -1,0 +1,72 @@
+{
+  "source_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536 - 복사본.bmp",
+  "result_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536 - 복사본_A001.bmp",
+  "defects": [
+    {
+      "type": "foreign_object",
+      "bbox": [
+        171,
+        295,
+        184,
+        184
+      ],
+      "params": {
+        "scale": 1.2105263157894737,
+        "object_size": [
+          152,
+          150
+        ],
+        "placed_size": [
+          184,
+          184
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\binil\\binil1.png",
+        "angle": -5.568343979551976
+      }
+    },
+    {
+      "type": "foreign_object",
+      "bbox": [
+        866,
+        119,
+        129,
+        129
+      ],
+      "params": {
+        "scale": 0.0496726992683866,
+        "object_size": [
+          2597,
+          2519
+        ],
+        "placed_size": [
+          129,
+          129
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\nasa\\nasa3.png",
+        "angle": 0.49356009228622355
+      }
+    },
+    {
+      "type": "foreign_object",
+      "bbox": [
+        292,
+        369,
+        274,
+        274
+      ],
+      "params": {
+        "scale": 4.029411764705882,
+        "object_size": [
+          68,
+          62
+        ],
+        "placed_size": [
+          274,
+          274
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\gomu_black\\black2.png",
+        "angle": -42.84618944810085
+      }
+    }
+  ]
+}

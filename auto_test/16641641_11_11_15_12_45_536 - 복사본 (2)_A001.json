@@ -1,0 +1,28 @@
+{
+  "source_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536 - 복사본 (2).bmp",
+  "result_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536 - 복사본 (2)_A001.bmp",
+  "defects": [
+    {
+      "type": "foreign_object",
+      "bbox": [
+        95,
+        476,
+        173,
+        173
+      ],
+      "params": {
+        "scale": 0.4792243767313019,
+        "object_size": [
+          361,
+          391
+        ],
+        "placed_size": [
+          173,
+          173
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\nasa\\nasa4.png",
+        "angle": -19.442260777948796
+      }
+    }
+  ]
+}

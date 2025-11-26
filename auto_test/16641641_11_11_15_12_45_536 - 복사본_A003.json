@@ -1,0 +1,50 @@
+{
+  "source_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536 - 복사본.bmp",
+  "result_image": "E:\\Git6\\Defect Generation\\auto_test\\16641641_11_11_15_12_45_536 - 복사본_A003.bmp",
+  "defects": [
+    {
+      "type": "foreign_object",
+      "bbox": [
+        607,
+        375,
+        155,
+        155
+      ],
+      "params": {
+        "scale": 0.1076388888888889,
+        "object_size": [
+          1440,
+          1080
+        ],
+        "placed_size": [
+          155,
+          155
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\16641641_11_11_15_12_45_536.bmp",
+        "angle": -4.493275230599998
+      }
+    },
+    {
+      "type": "foreign_object",
+      "bbox": [
+        656,
+        857,
+        117,
+        117
+      ],
+      "params": {
+        "scale": 1.1037735849056605,
+        "object_size": [
+          106,
+          95
+        ],
+        "placed_size": [
+          117,
+          117
+        ],
+        "source_path": "C:\\Users\\Administrator\\Downloads\\Object_list\\ball_white\\ball3.png",
+        "angle": 15.789685936077248
+      }
+    }
+  ]
+}

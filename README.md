@@ -62,21 +62,15 @@ Windows 환경에서 한글 경로/파일명도 지원합니다.
 
 - **크기/각도 조절 중인 화면**
 
-[적용 완료 화면](docs/manual_applied.png)
+
 // README 예시용: 이 위치에 첫 번째 스크린샷 파일을 두고,
 // GitHub 등에서 이미지를 미리보기로 확인할 수 있습니다.
 ```
 
 - **적용 완료된 화면**
 
-![오버레이 조절 화면](docs/manual_overlay.png)
-> 
-// README 예시용: 이 위치에 두 번째 스크린샷 파일을 두고,
-// 합성 결과 이미지를 확인할 수 있습니다.
-```
+<img width="1914" height="996" alt="image" src="https://github.com/user-attachments/assets/788301b7-0c20-47dd-b36b-60546c9aae0d" />
 
-> 이미지 파일을 실제로 추가할 때는 위 코드 블록 대신 아래와 같이 일반 마크다운 문법을 쓰면 됩니다.
->
 
 ---
 

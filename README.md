@@ -62,14 +62,14 @@ Windows 환경에서 한글 경로/파일명도 지원합니다.
 
 - **크기/각도 조절 중인 화면**
 
-```startLine:endLine:docs/manual_overlay.png
+startLine:endLine:docs/manual_overlay.png
 // README 예시용: 이 위치에 첫 번째 스크린샷 파일을 두고,
 // GitHub 등에서 이미지를 미리보기로 확인할 수 있습니다.
 ```
 
 - **적용 완료된 화면**
 
-```startLine:endLine:docs/manual_applied.png
+startLine:endLine:docs/manual_applied.png
 // README 예시용: 이 위치에 두 번째 스크린샷 파일을 두고,
 // 합성 결과 이미지를 확인할 수 있습니다.
 ```

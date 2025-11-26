@@ -69,7 +69,9 @@ Windows 환경에서 한글 경로/파일명도 지원합니다.
 
 - **적용 완료된 화면**
 
-<img width="1914" height="996" alt="image" src="https://github.com/user-attachments/assets/788301b7-0c20-47dd-b36b-60546c9aae0d" />
+![적용 완료 화면](docs/manual_applied.png)
+
+
 
 
 ---

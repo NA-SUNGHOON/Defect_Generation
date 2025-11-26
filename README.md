@@ -77,8 +77,8 @@ docs/manual_applied.png
 > 이미지 파일을 실제로 추가할 때는 위 코드 블록 대신 아래와 같이 일반 마크다운 문법을 쓰면 됩니다.
 >
 > ```markdown
-> ![오버레이 조절 화면](docs/manual_overlay.png)
-> ![적용 완료 화면](docs/manual_applied.png)
+> (docs/manual_overlay.png)
+> (docs/manual_applied.png)
 > ```
 
 ---
